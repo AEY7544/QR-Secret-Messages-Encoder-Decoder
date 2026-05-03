@@ -1,0 +1,13 @@
+{
+  "salama": {
+    "password_hash": "9654abe4c7cd1a6416cb5502f9f93a86d3564863823f147c728fa0e8eef27ad3",
+    "created_at": "2025-12-14T00:49:05.678018",
+    "failed_attempts": 5,
+    "decryption_attempts": 0
+  },
+  "salalma": {
+    "password_hash": "9654abe4c7cd1a6416cb5502f9f93a86d3564863823f147c728fa0e8eef27ad3",
+    "created_at": "2025-12-14T09:36:00.706502",
+    "failed_attempts": 0
+  }
+}
